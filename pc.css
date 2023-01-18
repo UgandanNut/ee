@@ -1,0 +1,187 @@
+
+body{
+    background-color: #DE2828;
+}
+
+html{
+    height: 1500px;
+    border: 2px solid rgb(255, 202, 28);
+    border-radius: 50px;
+}
+
+
+.bg img{
+    width: 500px;
+    height: 350px;
+    margin-left: 28%;
+    border: white solid;
+    border-radius: 50px;
+    margin-top: 3px;
+}
+
+
+
+.LOGO-1{
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    border-bottom: 2px solid yellow;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 5px;
+    margin-top: 10px;
+    margin-left: 1%;
+}
+
+.LOGO-1 h1{
+margin-left: 20%;
+
+}
+.pendahuluan{
+    font-size: 15px;
+    color: white;
+    border-bottom: 2px solid yellow;
+    border-radius: 25px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+
+
+.paragraph li{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    color: white;
+    
+
+}
+
+.paragraph h1{
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-top: 1px;
+    color: white;
+    
+  
+}
+
+.paragraph h2{
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-top: 2px;
+    color: white;
+    
+}
+
+.paragraph h3{
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-top: 3px;
+    color: white;
+    
+   
+}
+
+.paragraph h4{
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-top: 4px;
+    color: white;
+    
+    
+}
+
+.paragraph h5{
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-top: 5px;
+    color: white;
+    
+}
+
+
+.exclamation-mark img{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 1%;
+}
+
+.exclamation-mark2 img{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 85%;
+}
+
+
+
+
+.cloud img{
+    position:absolute;
+    z-index: -1;
+    width: 100px;
+    height: 150px;
+    margin-top: 100px;
+    width: 300px;
+    height: 250px;
+}
+
+.cloud-1 img{
+    position:absolute;
+    z-index: -1;
+    width: 100px;
+    height: 150px;
+    margin-top: 400px;
+    width: 300px;
+    height: 250px;
+}
+
+.cloud-2 img{
+    position:absolute;
+    z-index: -1;
+    width: 100px;
+    height: 150px;
+    margin-top: 700px;
+    width: 300px;
+    height: 250px;
+}
+
+.barongsai img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-top: 335px;
+    margin-left: 91%;
+}
+
+.barongsai1 img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-top: 465px;
+    margin-left: 34%;
+}
+
+.barongsai2 img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 70%;
+}
+
+.barongsai3 img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-top: 775px;
+    margin-left: 44%;
+}
+
+
+
+
+
+
